@@ -1,0 +1,2682 @@
+    [
+        [
+            {
+                "id": 1,
+                "question": "Na akord można:",
+                "answers": [
+                    "spać",
+                    "pracować",
+                    "śpiewać",
+                    "podróżować"
+                ],
+                "correctAnswer": "pracować"
+            },
+            {
+                "id": 2,
+                "question": "Ile kadencji trwała prezydentura Aleksandra Kwaśniewskiego:",
+                "answers": [
+                    "jedną",
+                    "trzy",
+                    "cztery",
+                    "dwie"
+                ],
+                "correctAnswer": "dwie"
+            },
+            {
+                "id": 3,
+                "question": "Tak zwana dziura ozonowa to spadek zawartości ozonu:",
+                "answers": [
+                    "w oceanie",
+                    "w litosferze",
+                    "w przestrzeni kosmicznej",
+                    "w atmosferze"
+                ],
+                "correctAnswer": "w atmosferze"
+            },
+            {
+                "id": 4,
+                "question": "Który z tych wzorów jest odpowiedni do obliczenia pola rombu:",
+                "answers": [
+                    "(e*f)/2",
+                    "e*f",
+                    "4*e*f",
+                    "(e*f)/4"
+                ],
+                "correctAnswer": "(e*f)/2"
+            },
+            {
+                "id": 5,
+                "question": "Które miejsce we Francji zajmuje Lyon pod względem wielkości aglomeracji:",
+                "answers": [
+                    "trzecie",
+                    "drugie",
+                    "czwarte",
+                    "piąte"
+                ],
+                "correctAnswer": "trzecie"
+            },
+            {
+                "id": 6,
+                "question": "\"Slver and Gold\" to utwór zespołu:",
+                "answers": [
+                    "The Beatles",
+                    "The Rolling Stones",
+                    "U2",
+                    "Pink Floyd"
+                ],
+                "correctAnswer": "U2"
+            },
+            {
+                "id": 7,
+                "question": "Jak brzmi drugi człon nazwiska Czesława Niemena - polskiego piosenkarza, kompozytora i multiinstrumentalisty?",
+                "answers": [
+                    "Wenglorz",
+                    "Wydrzycki",
+                    "Wolbach",
+                    "Wawrzyniuk"
+                ],
+                "correctAnswer": "Wydrzycki"
+            },
+            {
+                "id": 8,
+                "question": "Biskupice to dzielnica:",
+                "answers": [
+                    "Zabrza",
+                    "Gdańska",
+                    "Łodzi",
+                    "Kielc"
+                ],
+                "correctAnswer": "Zabrza"
+            },
+            {
+                "id": 9,
+                "question": "Który okres przypada na czas panowania dinozaurów?",
+                "answers": [
+                    "Perm",
+                    "Karbon",
+                    "Ordowik",
+                    "Jura"
+                ],
+                "correctAnswer": "Jura"
+            },
+            {
+                "id": 10,
+                "question": "Jaką wysokość ma krzyż na Giewoncie?",
+                "answers": [
+                    "15 metrów",
+                    "8 metrów",
+                    "24 metrów",
+                    "31 metrów"
+                ],
+                "correctAnswer": "15 metrów"
+            },
+            {
+                "id": 11,
+                "question": "Najwyższy budynek świata Burdż Chalifa ma wysokość:",
+                "answers": [
+                    "964 m",
+                    "785 m",
+                    "829 m",
+                    "734 m"
+                ],
+                "correctAnswer": "829 m"
+            },
+            {
+                "id": 12,
+                "question": "Która ryba akwariowa kryje się pod nazwą balntiocheilos melanopterus",
+                "answers": [
+                    "brzanka liniowa",
+                    "brzanka czarnoplama",
+                    "brzanka wielkołuska",
+                    "brzanka rekinia"
+                ],
+                "correctAnswer": "brzanka rekinia"
+            }
+        ],
+        [
+            {
+                "id": 1,
+                "question": "Określeniem Boga używanym przez Św. Jana jest wyrażenie \"alfa i ...\":",
+                "answers": [
+                    "beta",
+                    "delta",
+                    "omega",
+                    "gamma"
+                ],
+                "correctAnswer": "omega"
+            },
+            {
+                "id": 2,
+                "question": "Z jakiego mięsa robi się tatara?",
+                "answers": [
+                    "z wołowiny",
+                    "z wieprzowiny",
+                    "z baraniny",
+                    "z drobiu"
+                ],
+                "correctAnswer": "z wołowiny"
+            },
+            {
+                "id": 3,
+                "question": "Kwiat rabatowy otwierający się intensywnie i pachnący dopiero po zmroku to:",
+                "answers": [
+                    "maciejka",
+                    "bratek",
+                    "niezapominajka",
+                    "tulipan"
+                ],
+                "correctAnswer": "maciejka"
+            },
+            {
+                "id": 4,
+                "question": "Z jakiego tworzywa robiono okaryny?",
+                "answers": [
+                    "ze stali",
+                    "z gliny",
+                    "z bakelitu",
+                    "z miedzi"
+                ],
+                "correctAnswer": "z gliny"
+            },
+            {
+                "id": 5,
+                "question": "Solaris nie jest nazwą:",
+                "answers": [
+                    "powieści",
+                    "systemu operacyjnego",
+                    "pasma górskiego",
+                    "producenta autobusów"
+                ],
+                "correctAnswer": "pasma górskiego"
+            },
+            {
+                "id": 6,
+                "question": "Jaki stopień posiada policjant, jeżeli na pagonie widnieją 3 gwiazdki?",
+                "answers": [
+                    "aspirant Policji",
+                    "młodszy inspektor Policji",
+                    "starszy sierżant Policji",
+                    "komisarz Policji"
+                ],
+                "correctAnswer": "komisarz Policji"
+            },
+            {
+                "id": 7,
+                "question": "Ludność którego europejskiego miasta nie przekracza liczby jednego miliona:",
+                "answers": [
+                    "Sofii",
+                    "Mediolanu",
+                    "Hanoweru",
+                    "Birmingham"
+                ],
+                "correctAnswer": "Hanoweru"
+            },
+            {
+                "id": 8,
+                "question": "\"Reszta jest mlilczeniem\" to ostatnie słowa umierającego:",
+                "answers": [
+                    "Klaudiusza",
+                    "Hamleta",
+                    "Makbeta",
+                    "Poloniusza"
+                ],
+                "correctAnswer": "Hamleta"
+            },
+            {
+                "id": 9,
+                "question": "Droga mleczna jest galaktyką:",
+                "answers": [
+                    "spiralną z poprzeczką",
+                    "soczewkową",
+                    "epileptyczną",
+                    "nieregularną"
+                ],
+                "correctAnswer": "spiralną z poprzeczką"
+            },
+            {
+                "id": 10,
+                "question": "Ktoś kto nadmiernie lubi wysokie obcasy może być:",
+                "answers": [
+                    "altokalcifilem",
+                    "akarofilem",
+                    "andromimetofilem",
+                    "arachnefilem"
+                ],
+                "correctAnswer": "altokalcifilem"
+            },
+            {
+                "id": 11,
+                "question": "Czyim wychowankiem był słynny słoweński szachista Maximilian Ujtelky?",
+                "answers": [
+                    "Gunthera Mohringiema",
+                    "Franciszka Liszta",
+                    "Jewgienija Wasiukowa",
+                    "Ferenca Portisha"
+                ],
+                "correctAnswer": "Franciszka Liszta"
+            },
+            {
+                "id": 12,
+                "question": "Co, według powtarzanego przez siebie tekstu, robił Hermann Goering, gdy słyszał słowo \"kultura\"",
+                "answers": [
+                    "sięgał po słownik",
+                    "zgrzytał zębami",
+                    "odbezpieczał browninga",
+                    "odpalał cygaro"
+                ],
+                "correctAnswer": "odbezpieczał browninga"
+            }
+        ],
+        [
+            {
+                "id": 1,
+                "question": "Który z owadów wydaje charakterystyczne dźwięki zwane cykaniem?",
+                "answers": [
+                    "komar",
+                    "mucha",
+                    "świerszcz",
+                    "pszczoła"
+                ],
+                "correctAnswer": "świerszcz"
+            },
+            {
+                "id": 2,
+                "question": "W jaki dzień tygodnia Robinson Crusoe spotkał swojego towarzysza niedoli?",
+                "answers": [
+                    "środę",
+                    "piątek",
+                    "czwartek",
+                    "sobotę"
+                ],
+                "correctAnswer": "piątek"
+            },
+            {
+                "id": 3,
+                "question": "Kto był wokalistą zespołu The Doors?",
+                "answers": [
+                    "Jim Morrison",
+                    "Jimi Hendrix",
+                    "Elvis Presley",
+                    "Eric Clapton"
+                ],
+                "correctAnswer": "Jim Morrison"
+            },
+            {
+                "id": 4,
+                "question": "W jakim kraju znajduje się źródło najdłuższej, europejskiej rzeki Dunaj?",
+                "answers": [
+                    "na Słowacji",
+                    "w Niemczech",
+                    "w Austrii",
+                    "w Chorwacji"
+                ],
+                "correctAnswer": "w Niemczech"
+            },
+            {
+                "id": 5,
+                "question": "Bernardo O'Higgins w 1818 roku został dyktatorem którego kraju?",
+                "answers": [
+                    "Irlandii",
+                    "Rosji",
+                    "Francji",
+                    "Chile"
+                ],
+                "correctAnswer": "Chile"
+            },
+            {
+                "id": 6,
+                "question": "Butelka z wodą sodową to inaczej:",
+                "answers": [
+                    "stągiew",
+                    "hydria",
+                    "termos",
+                    "syfon"
+                ],
+                "correctAnswer": "syfon"
+            },
+            {
+                "id": 7,
+                "question": "Ile gwiazd widnieje na fladze republiki Środkowoafrykańskiej?",
+                "answers": [
+                    "0",
+                    "4",
+                    "1",
+                    "10"
+                ],
+                "correctAnswer": "1"
+            },
+            {
+                "id": 8,
+                "question": "W ilu stopniach Fahrenheita wrze woda?",
+                "answers": [
+                    "195",
+                    "223",
+                    "212",
+                    "273"
+                ],
+                "correctAnswer": "212"
+            },
+            {
+                "id": 9,
+                "question": "Który z utworów nie znalazł się na albumie Michaela Jacksona \"Thriller\"?",
+                "answers": [
+                    "Thriller",
+                    "Billie Jean",
+                    "Smooth Criminal",
+                    "Human Nature"
+                ],
+                "correctAnswer": "Smooth Criminal"
+            },
+            {
+                "id": 10,
+                "question": "Bogusąd to:",
+                "answers": [
+                    "przeznaczenie życia",
+                    "staropolskie imię męskie",
+                    "praktyki religijne",
+                    "starożytne rzymskie fatum"
+                ],
+                "correctAnswer": "staropolskie imię męskie"
+            },
+            {
+                "id": 11,
+                "question": "Ile kości ma noworodek człowieka?",
+                "answers": [
+                    "około 220",
+                    "około 150",
+                    "około 330",
+                    "około 270"
+                ],
+                "correctAnswer": "około 270"
+            },
+            {
+                "id": 12,
+                "question": "Które buddyjskie określenie znaczy to samo co brak duszy?",
+                "answers": [
+                    "awidja",
+                    "anicca",
+                    "anatman",
+                    "abhidharma"
+                ],
+                "correctAnswer": "anatman"
+            }
+        ],
+        [
+            {
+                "id": 1,
+                "question": "Który z owadów wydaje charakterystyczne dźwięki zwane cykaniem?",
+                "answers": [
+                    "komar",
+                    "mucha",
+                    "świerszcz",
+                    "pszczoła"
+                ],
+                "correctAnswer": "świerszcz"
+            },
+            {
+                "id": 2,
+                "question": "W jaki dzień tygodnia Robinson Crusoe spotkał swojego towarzysza niedoli?",
+                "answers": [
+                    "środę",
+                    "piątek",
+                    "czwartek",
+                    "sobotę"
+                ],
+                "correctAnswer": "piątek"
+            },
+            {
+                "id": 3,
+                "question": "Kto był wokalistą zespołu The Doors?",
+                "answers": [
+                    "Jim Morrison",
+                    "Jimi Hendrix",
+                    "Elvis Presley",
+                    "Eric Clapton"
+                ],
+                "correctAnswer": "Jim Morrison"
+            },
+            {
+                "id": 4,
+                "question": "W jakim kraju znajduje się źródło najdłuższej, europejskiej rzeki Dunaj?",
+                "answers": [
+                    "na Słowacji",
+                    "w Niemczech",
+                    "w Austrii",
+                    "w Chorwacji"
+                ],
+                "correctAnswer": "w Niemczech"
+            },
+            {
+                "id": 5,
+                "question": "Bernardo O'Higgins w 1818 roku został dyktatorem którego kraju?",
+                "answers": [
+                    "Irlandii",
+                    "Rosji",
+                    "Francji",
+                    "Chile"
+                ],
+                "correctAnswer": "Chile"
+            },
+            {
+                "id": 6,
+                "question": "Butelka z wodą sodową to inaczej:",
+                "answers": [
+                    "stągiew",
+                    "hydria",
+                    "termos",
+                    "syfon"
+                ],
+                "correctAnswer": "syfon"
+            },
+            {
+                "id": 7,
+                "question": "Ile gwiazd widnieje na fladze republiki Środkowoafrykańskiej?",
+                "answers": [
+                    "0",
+                    "4",
+                    "1",
+                    "10"
+                ],
+                "correctAnswer": "1"
+            },
+            {
+                "id": 8,
+                "question": "W ilu stopniach Fahrenheita wrze woda?",
+                "answers": [
+                    "195",
+                    "223",
+                    "212",
+                    "273"
+                ],
+                "correctAnswer": "212"
+            },
+            {
+                "id": 9,
+                "question": "Który z utworów nie znalazł się na albumie Michaela Jacksona \"Thriller\"?",
+                "answers": [
+                    "Thriller",
+                    "Billie Jean",
+                    "Smooth Criminal",
+                    "Human Nature"
+                ],
+                "correctAnswer": "Smooth Criminal"
+            },
+            {
+                "id": 10,
+                "question": "Bogusąd to:",
+                "answers": [
+                    "przeznaczenie życia",
+                    "staropolskie imię męskie",
+                    "praktyki religijne",
+                    "starożytne rzymskie fatum"
+                ],
+                "correctAnswer": "staropolskie imię męskie"
+            },
+            {
+                "id": 11,
+                "question": "Ile kości ma noworodek człowieka?",
+                "answers": [
+                    "około 220",
+                    "około 150",
+                    "około 330",
+                    "około 270"
+                ],
+                "correctAnswer": "około 270"
+            },
+            {
+                "id": 12,
+                "question": "Które buddyjskie określenie znaczy to samo co brak duszy?",
+                "answers": [
+                    "awidja",
+                    "anicca",
+                    "anatman",
+                    "abhidharma"
+                ],
+                "correctAnswer": "anatman"
+            }
+        ],
+        [
+            {
+                "id": 1,
+                "question": "Ilu apostołów towarzyszyło Jezusowi podczas Jego nauk?",
+                "answers": [
+                    "12",
+                    "11",
+                    "10",
+                    "13"
+                ],
+                "correctAnswer": "12"
+            },
+            {
+                "id": 2,
+                "question": "Dziecięcy oddział szpitalny to:",
+                "answers": [
+                    "pediatria",
+                    "interna",
+                    "geriatria",
+                    "gastroenterologia"
+                ],
+                "correctAnswer": "pediatria"
+            },
+            {
+                "id": 3,
+                "question": "Pogardliwe gach to inaczej:",
+                "answers": [
+                    "kochanek",
+                    "przyjaciel",
+                    "brat",
+                    "ojciec"
+                ],
+                "correctAnswer": "kochanek"
+            },
+            {
+                "id": 4,
+                "question": "Jeżeli nastąpiła stagnacja lodowca to znaczy że lodowiec:",
+                "answers": [
+                    "jest w fazie akumulacji",
+                    "jest w fazie postoju",
+                    "jest w fazie oscylacji",
+                    "jest w fazie ablacji"
+                ],
+                "correctAnswer": "jest w fazie postoju"
+            },
+            {
+                "id": 5,
+                "question": "Które zdanie współrzędnie złożone nie istnieje?",
+                "answers": [
+                    "przeciwstawne",
+                    "synonimiczne",
+                    "wynikowe",
+                    "homonimiczne"
+                ],
+                "correctAnswer": "homonimiczne"
+            },
+            {
+                "id": 6,
+                "question": "Który z wymienionych poetów jest znany jako autor erotyku pt. \"W malinowym chruśniaku\"?",
+                "answers": [
+                    "Władysław Reymont",
+                    "Bolesław Leśmian",
+                    "Zygmunt Krasiński",
+                    "Aleksander Głowacki"
+                ],
+                "correctAnswer": "Bolesław Leśmian"
+            },
+            {
+                "id": 7,
+                "question": "Z łaciny \"volupia\" oznacza:",
+                "answers": [
+                    "rozkosz",
+                    "radość",
+                    "nadzieję",
+                    "przyjemność"
+                ],
+                "correctAnswer": "rozkosz"
+            },
+            {
+                "id": 8,
+                "question": "Z czym związany był mitologiczny Charon?",
+                "answers": [
+                    "z życiem",
+                    "z nadzieją",
+                    "z miłością",
+                    "ze śmiercią"
+                ],
+                "correctAnswer": "ze śmiercią"
+            },
+            {
+                "id": 9,
+                "question": "Kto w utworze \"Dzieci z Bullerbyn\" nie należy do tzw. \"Zagrody Północnej\"?",
+                "answers": [
+                    "Olle",
+                    "Britta",
+                    "Anders Jan Andersson",
+                    "wujek Erik"
+                ],
+                "correctAnswer": "Olle"
+            },
+            {
+                "id": 10,
+                "question": "Jakie imiona nosił brytyjski archeolog T.E. Lawrence, lepiej znany jako \"Lawrence z Arabii\"?",
+                "answers": [
+                    "Terence Ernest",
+                    "Tobias Edgar",
+                    "Thomas Edward",
+                    "Timothy Eric"
+                ],
+                "correctAnswer": "Thomas Edward"
+            },
+            {
+                "id": 11,
+                "question": "Jaki przydomek dzięki ogromnemu zasięgowi ramion zyskał niemiecki pływak Michael Gross?",
+                "answers": [
+                    "orzeł",
+                    "kondor",
+                    "fregata",
+                    "albatros"
+                ],
+                "correctAnswer": "albatros"
+            },
+            {
+                "id": 12,
+                "question": "Kto był reżyserem filmu \"Panienka z poste restante\", w którym Mieczysław Fogg występuje wraz z chórem Dana?",
+                "answers": [
+                    "Henryk Szaro",
+                    "Michał Waszyński",
+                    "Konstanty Meglicki",
+                    "Jan Nowina-Przybylski"
+                ],
+                "correctAnswer": "Michał Waszyński"
+            }
+        ],
+        [
+            {
+                "id": 1,
+                "question": "Jakiej barwy nie znajdziemy w drogowej sygnalizacji świetlnej?",
+                "answers": [
+                    "czerwonej",
+                    "fioletowej",
+                    "żóltej",
+                    "zielonej"
+                ],
+                "correctAnswer": "fioletowej"
+            },
+            {
+                "id": 2,
+                "question": "Pulchne placki drożdżowe smażone na oleju to:",
+                "answers": [
+                    "knedle",
+                    "naleśniki",
+                    "racuchy",
+                    "podpłomyki"
+                ],
+                "correctAnswer": "racuchy"
+            },
+            {
+                "id": 3,
+                "question": "Jedno ciastko ma 67 kcal. Ile jest kalorii w całym opakowaniu ciastek jeżeli jest ich 20?",
+                "answers": [
+                    "1200",
+                    "1340",
+                    "1280",
+                    "1000"
+                ],
+                "correctAnswer": "1340"
+            },
+            {
+                "id": 4,
+                "question": "Który z landów/prowincji nie należy do Republiki Federalnej Niemiec?",
+                "answers": [
+                    "Badenia-Wirtembergia",
+                    "Salzburg",
+                    "Bawaria",
+                    "Szlezwik-Holsztyn"
+                ],
+                "correctAnswer": "Salzburg"
+            },
+            {
+                "id": 5,
+                "question": "Petrologia to nauka o:",
+                "answers": [
+                    "skałach",
+                    "gwiazdach",
+                    "paliwie",
+                    "planetach"
+                ],
+                "correctAnswer": "skałach"
+            },
+            {
+                "id": 6,
+                "question": "Który strongman nie zdobył tytuła roku Mistrza Polski od 1999 roku?",
+                "answers": [
+                    "Lubomir Libacki",
+                    "Sławomir Orzeł",
+                    "Jarosław Dymek",
+                    "Mariusz Pudzianowski"
+                ],
+                "correctAnswer": "Sławomir Orzeł"
+            },
+            {
+                "id": 7,
+                "question": "Kto jest autorem jednej z najbardziej znanych gier komputerowych \"Tetris\"?",
+                "answers": [
+                    "Miron Czernienko",
+                    "Aleksiej Pażytnow",
+                    "Iwan Szapowałow",
+                    "Michael Lucas"
+                ],
+                "correctAnswer": "Aleksiej Pażytnow"
+            },
+            {
+                "id": 8,
+                "question": "W jaki sposób tytułowy bohater \"Cierpień młodego Wertera\" odbiera sobie życie?",
+                "answers": [
+                    "zażywając arszenik",
+                    "strzelając w głowę",
+                    "wieszając się",
+                    "topiąc się w rzece"
+                ],
+                "correctAnswer": "strzelając w głowę"
+            },
+            {
+                "id": 9,
+                "question": "Kto jest wynalazcją tzw. suwaka logarytmicznego",
+                "answers": [
+                    "Edmund Gunter",
+                    "Thomas Browne",
+                    "William Oughtred",
+                    "John Napier"
+                ],
+                "correctAnswer": "William Oughtred"
+            },
+            {
+                "id": 10,
+                "question": "Białowieska Stacja Geobotaniczna jest jednostką organizacyjną którego uniwersytetu?",
+                "answers": [
+                    "Jagiellońskiego",
+                    "Łódzkiego",
+                    "Warszawskiego",
+                    "Wrocławskiego"
+                ],
+                "correctAnswer": "Warszawskiego"
+            },
+            {
+                "id": 11,
+                "question": "Słynny wiadukt, który ukazał się między innymi w filmach \"Nieśmiertelny\" i \"Harry Potter\" znajduje się w pobliżu miasta:",
+                "answers": [
+                    "Glenfinnan",
+                    "Stornoway",
+                    "Monifieth",
+                    "Clydebark"
+                ],
+                "correctAnswer": "Glenfinnan"
+            },
+            {
+                "id": 12,
+                "question": "Gary Burton jest muzykiem grającym, na jakim instrumencie?",
+                "answers": [
+                    "pianinie",
+                    "flecie",
+                    "wibrafonie",
+                    "gitarze"
+                ],
+                "correctAnswer": "wibrafonie"
+            }
+        ],
+        [
+            {
+                "id": 1,
+                "question": "Tradycyjny dom ludów żyjących w strefie polarnej, wykonany z bloków śniegu to:",
+                "answers": [
+                    "wigwam",
+                    "szałas",
+                    "igloo",
+                    "jurta"
+                ],
+                "correctAnswer": "igloo"
+            },
+            {
+                "id": 2,
+                "question": "Decybeli użyjemy przy wykonaniu pomiaru:",
+                "answers": [
+                    "napięcia prądu",
+                    "natężenia dźwięku",
+                    "ciepłoty wody",
+                    "prędkości obrotowej"
+                ],
+                "correctAnswer": "natężenia dźwięku"
+            },
+            {
+                "id": 3,
+                "question": "Persona non grata to:",
+                "answers": [
+                    "osoba nieobecna",
+                    "osoba niepożądana",
+                    "dusza towarzyska",
+                    "osoba niepunktualna"
+                ],
+                "correctAnswer": "osoba niepożądana"
+            },
+            {
+                "id": 4,
+                "question": "Jaki film, oparty na faktach, opowiada historię dwóch braci uciekających z Polski do Danii w schowku pod TIR-em?",
+                "answers": [
+                    "300 mil do nieba",
+                    "Trzy stopy nad ziemią",
+                    "U kresu drogi",
+                    "Wielka ucieczka"
+                ],
+                "correctAnswer": "300 mil do nieba"
+            },
+            {
+                "id": 5,
+                "question": "Autorem słów \"Bóg nie żyje\" (niem. \"Gott ist tot\") jest:",
+                "answers": [
+                    "Adolf Hitler",
+                    "Otto van Bismarck",
+                    "Friedrich Nietzsche",
+                    "Johan Sebastian Bach"
+                ],
+                "correctAnswer": "Friedrich Nietzsche"
+            },
+            {
+                "id": 6,
+                "question": "Latimeria to:",
+                "answers": [
+                    "taniec",
+                    "ryba trzonopłetwa",
+                    "kobiecie imię",
+                    "hiszpańska potrawa"
+                ],
+                "correctAnswer": "ryba trzonopłetwa"
+            },
+            {
+                "id": 7,
+                "question": "Czyją rolę grał Roberta Gonera w filmie \"Jan Paweł II\"?",
+                "answers": [
+                    "Tadeusza",
+                    "członka PZPR",
+                    "Wojciecha",
+                    "profesora Kierka"
+                ],
+                "correctAnswer": "Tadeusza"
+            },
+            {
+                "id": 8,
+                "question": "Mamba to rodzaj:",
+                "answers": [
+                    "żaby",
+                    "żółwia",
+                    "krokodyla",
+                    "węża"
+                ],
+                "correctAnswer": "węża"
+            },
+            {
+                "id": 9,
+                "question": "W jakim województwie leży miejscowość Biłgoraj, z której pochodzi m.in. Janusz Palikot?",
+                "answers": [
+                    "w świętokrzyskim",
+                    "w podkarpackim",
+                    "w mazowieckim",
+                    "w lubelskim"
+                ],
+                "correctAnswer": "w lubelskim"
+            },
+            {
+                "id": 10,
+                "question": "Dowódcą wojsk polskich w bitwie pod Racławicami był:",
+                "answers": [
+                    "Kazimierz Pułaski",
+                    "Tadeusz Kościuszko",
+                    "Józef Piłsudski",
+                    "Stefan Czarnecki"
+                ],
+                "correctAnswer": "Tadeusz Kościuszko"
+            },
+            {
+                "id": 11,
+                "question": "Jak miał na drugie imię Józef Piłsudski?",
+                "answers": [
+                    "Stanisław",
+                    "Bogumił",
+                    "Klemens",
+                    "Kazimierz"
+                ],
+                "correctAnswer": "Klemens"
+            },
+            {
+                "id": 12,
+                "question": "Ręczny granatnik przeciwpancerny RPG-76 \"Komar\" to broń:",
+                "answers": [
+                    "czterokrotnego użytku",
+                    "dwukrotnego użytku",
+                    "wielokrotnego użytku",
+                    "jednorazowego użytku"
+                ],
+                "correctAnswer": "jednorazowego użytku"
+            }
+        ],
+        [
+            {
+                "id": 1,
+                "question": "Do przyrządzenia omleta niezbędne są:",
+                "answers": [
+                    "pomidory",
+                    "jajka",
+                    "ziemniaki",
+                    "grzyby"
+                ],
+                "correctAnswer": "jajka"
+            },
+            {
+                "id": 2,
+                "question": "Powłoka na naczyniach kuchennych zapobiegająca przywieraniu potraw to:",
+                "answers": [
+                    "poliester",
+                    "teflon",
+                    "akryl",
+                    "winyl"
+                ],
+                "correctAnswer": "teflon"
+            },
+            {
+                "id": 3,
+                "question": "Pies, który przemierzył pół kraju, aby dotrzeć do poprzednich właścicieli to:",
+                "answers": [
+                    "Beethoven",
+                    "Goofy",
+                    "Lassie",
+                    "Pluto"
+                ],
+                "correctAnswer": "Lassie"
+            },
+            {
+                "id": 4,
+                "question": "Z jaką dziedziną kojarzony jest Krzysztof Penderecki?",
+                "answers": [
+                    "z polityką",
+                    "z muzyką",
+                    "z dziennikarstwem",
+                    "z fizyką"
+                ],
+                "correctAnswer": "z muzyką"
+            },
+            {
+                "id": 5,
+                "question": "Ile chromosomów zawiera plemnik człowieka?",
+                "answers": [
+                    "17",
+                    "20",
+                    "23",
+                    "25"
+                ],
+                "correctAnswer": "23"
+            },
+            {
+                "id": 6,
+                "question": "Twórcą gestapo był:",
+                "answers": [
+                    "Hermann Goering",
+                    "Joseph Goebbels",
+                    "Heinrich Himmler",
+                    "Rudolf Hess"
+                ],
+                "correctAnswer": "Hermann Goering"
+            },
+            {
+                "id": 7,
+                "question": "W którym mieście znajduje się największe Muzeum Budownictwa Ludowego?",
+                "answers": [
+                    "w Opocznie",
+                    "w Sanoku",
+                    "w Olsztynku",
+                    "w Wałbrzychu"
+                ],
+                "correctAnswer": "w Sanoku"
+            },
+            {
+                "id": 8,
+                "question": "Ile było prezydentów USA w czasie trwania reżimu Fidela Castro na Kubie?",
+                "answers": [
+                    "5",
+                    "25",
+                    "30",
+                    "10"
+                ],
+                "correctAnswer": "10"
+            },
+            {
+                "id": 9,
+                "question": "Nowa Zelandia słynie z hodowli:",
+                "answers": [
+                    "kangurów",
+                    "bydła",
+                    "owiec",
+                    "węży"
+                ],
+                "correctAnswer": "owiec"
+            },
+            {
+                "id": 10,
+                "question": "Która z wymienionych jaszczurek jest jadowita?",
+                "answers": [
+                    "smok latający",
+                    "heloderma",
+                    "moloch kolczasty",
+                    "scynk aptekarski"
+                ],
+                "correctAnswer": "heloderma"
+            },
+            {
+                "id": 11,
+                "question": "Samica jakich ptaków na pewien czas pozostaje zamurowana w dziupli wraz ze swoim potomstwem?",
+                "answers": [
+                    "nogala",
+                    "maskonura",
+                    "altannika",
+                    "dzioborożca"
+                ],
+                "correctAnswer": "dzioborożca"
+            },
+            {
+                "id": 12,
+                "question": "Czyjego utworu nie znajdziemy na ścieżce dźwiękowej do filmu \"Pulp Fiction\"?",
+                "answers": [
+                    "Chuck Berry",
+                    "Marvin Gaye",
+                    "Urge Overkill",
+                    "Kool & The Gang"
+                ],
+                "correctAnswer": "Marvin Gaye"
+            }
+        ],
+        [
+            {
+                "id": 1,
+                "question": "Współczesne Niemcy, przed 1989 rokiem, dzieliły się na NRD oraz:",
+                "answers": [
+                    "RMF",
+                    "RFN",
+                    "RRR",
+                    "RP"
+                ],
+                "correctAnswer": "RFN"
+            },
+            {
+                "id": 2,
+                "question": "Powiedzenie \"dziesiąta woda po kisielu\" oznacza:",
+                "answers": [
+                    "mdły smak",
+                    "coś bardzo rzadkiego",
+                    "coś niesmacznego",
+                    "odległe pokrewieństwo"
+                ],
+                "correctAnswer": "odległe pokrewieństwo"
+            },
+            {
+                "id": 3,
+                "question": "W mitologii greckiej, Minotaur był hybrydą człowieka i:",
+                "answers": [
+                    "byka",
+                    "lwa",
+                    "kozła",
+                    "konia"
+                ],
+                "correctAnswer": "byka"
+            },
+            {
+                "id": 4,
+                "question": "Co to jest szyszak?",
+                "answers": [
+                    "siodło rycerskie",
+                    "duża tarcza",
+                    "hełm rycerza",
+                    "miecz dwuręczny"
+                ],
+                "correctAnswer": "hełm rycerza"
+            },
+            {
+                "id": 5,
+                "question": "Który z tych rzemieślników wyrabia wozy i części do nich?",
+                "answers": [
+                    "introligator",
+                    "kołodziej",
+                    "klikon",
+                    "stelmach"
+                ],
+                "correctAnswer": "kołodziej"
+            },
+            {
+                "id": 6,
+                "question": "Wentworth Miller w karierze aktorskiej zadebiutował w filmie:",
+                "answers": [
+                    "\"Romeo and Juliet\"",
+                    "\"Discovering Dinotopia\"",
+                    "\"Room 302\"",
+                    "\"Underworld\""
+                ],
+                "correctAnswer": "\"Romeo and Juliet\""
+            },
+            {
+                "id": 7,
+                "question": "Przedwojennym utwrotem Jana Brzechwy jest:",
+                "answers": [
+                    "\"Tańcowała igła z nitką\"",
+                    "\"Podróże pana Kleksa\"",
+                    "\"Sto bajek\"",
+                    "\"Pan Drops i jego trupa\""
+                ],
+                "correctAnswer": "\"Tańcowała igła z nitką\""
+            },
+            {
+                "id": 8,
+                "question": "Analgesia z łaciny oznacza:",
+                "answers": [
+                    "zwiotczenie mięśni",
+                    "zniesienie odruchów",
+                    "zniesienie bólu",
+                    "zniesienie świadomości"
+                ],
+                "correctAnswer": "zniesienie bólu"
+            },
+            {
+                "id": 9,
+                "question": "Do dziesięcionogów nie należy:",
+                "answers": [
+                    "homar",
+                    "jeżowiec",
+                    "langusta",
+                    "pustelnik"
+                ],
+                "correctAnswer": "jeżowiec"
+            },
+            {
+                "id": 10,
+                "question": "Jak nazywa się detektyw grany przez Gene Hackmana w filmie \"Francuski łącznik\"",
+                "answers": [
+                    "McClane",
+                    "Curran",
+                    "Doyle",
+                    "Malone"
+                ],
+                "correctAnswer": "Doyle"
+            },
+            {
+                "id": 11,
+                "question": "Żydówka z obrazu Aleksandra Gierymskiego odzyskanego przez Polskę w 2011 r.,zajęta jest",
+                "answers": [
+                    "obieraniem pomarańczy",
+                    "robieniem na drutach",
+                    "liczeniem banknotów",
+                    "rozsypywaniem okruszków"
+                ],
+                "correctAnswer": "robieniem na drutach"
+            },
+            {
+                "id": 12,
+                "question": "Wątróbka z cebulką (...) jest zakąską doskonałą. Aby ją przyrządzić, należy kupić samochód i pędzić nim póty, aż się kogoś przejedzie. To Lem i...",
+                "answers": [
+                    "\"Solaris\"",
+                    "\"Opowieści o pilocie Pirxie\"",
+                    "\"Dyktanda, czyli...\"",
+                    "\"Szpital przemienienia\""
+                ],
+                "correctAnswer": "\"Dyktanda, czyli...\""
+            }
+        ],
+        [
+            {
+                "id": 1,
+                "question": "Jak nazywa się kot Gargamela?",
+                "answers": [
+                    "Mamrotek",
+                    "Kocurski",
+                    "Filemon",
+                    "Klakier"
+                ],
+                "correctAnswer": "Klakier"
+            },
+            {
+                "id": 2,
+                "question": "Którą część roweru posiada bieżnik?",
+                "answers": [
+                    "szprycha",
+                    "siodełko",
+                    "rama",
+                    "opona"
+                ],
+                "correctAnswer": "opona"
+            },
+            {
+                "id": 3,
+                "question": "Miękka czapka wojskowa bez daszka, podłużnie składana to:",
+                "answers": [
+                    "maciejówka",
+                    "furażerka",
+                    "rogatywka",
+                    "panama"
+                ],
+                "correctAnswer": "furażerka"
+            },
+            {
+                "id": 4,
+                "question": "Chrześcijańska nazwa Stambułu to:",
+                "answers": [
+                    "Nikomedia",
+                    "Synopa",
+                    "Aleksandria",
+                    "Konstantynopol"
+                ],
+                "correctAnswer": "Konstantynopol"
+            },
+            {
+                "id": 5,
+                "question": "Czego nie dotyczyło sfałszowane referendum z 1946 roku przeprowadzone w Polsce?",
+                "answers": [
+                    "reformy oświaty i zdrowia",
+                    "zmian gospodarczych",
+                    "zniesienia Senatu",
+                    "utrwalenia zachodniej granicy"
+                ],
+                "correctAnswer": "reformy oświaty i zdrowia"
+            },
+            {
+                "id": 6,
+                "question": "Ponad 7 kilometrowa Aleja Włókniarzy jest jedną z najdłuższych ulic:",
+                "answers": [
+                    "Łodzi",
+                    "Wrocławia",
+                    "Poznania",
+                    "Szczecina"
+                ],
+                "correctAnswer": "Łodzi"
+            },
+            {
+                "id": 7,
+                "question": "Wiewiórki pospolite w Czerwonej Księdze Gatunków Zagrożonych otrzymały status:",
+                "answers": [
+                    "bliskie zagrożenia",
+                    "najmniejszej troski",
+                    "narażone",
+                    "zagrożone"
+                ],
+                "correctAnswer": "najmniejszej troski"
+            },
+            {
+                "id": 8,
+                "question": "W którym z krajów obowiązująca jednostką monetarną nie jest dolar amerykański?",
+                "answers": [
+                    "Kostaryka",
+                    "Ekwador",
+                    "Panama",
+                    "Zimbabwe"
+                ],
+                "correctAnswer": "Kostaryka"
+            },
+            {
+                "id": 9,
+                "question": "\"Misericordia\" z łaciny oznacza:",
+                "answers": [
+                    "gniew",
+                    "pojednanie",
+                    "miłosierdzie",
+                    "zbawienie"
+                ],
+                "correctAnswer": "miłosierdzie"
+            },
+            {
+                "id": 10,
+                "question": "Jak nazywał się statek, na którym w 1893 roku Fridtjoef Nansen próbował dotrzeć do bieguna?",
+                "answers": [
+                    "Erebus",
+                    "Terror",
+                    "Beagle",
+                    "Fram"
+                ],
+                "correctAnswer": "Fram"
+            },
+            {
+                "id": 11,
+                "question": "Pułkownik Brandon jest bohaterem, której powieści Jane Usten?",
+                "answers": [
+                    "Duma i uprzedzenie",
+                    "Emma",
+                    "Dziwne losy Jane Eyre",
+                    "Rozważna i romantyczna"
+                ],
+                "correctAnswer": "Rozważna i romantyczna"
+            },
+            {
+                "id": 12,
+                "question": "Który japoński licznik określa ludzi?",
+                "answers": [
+                    "wa",
+                    "do",
+                    "nin",
+                    "setu"
+                ],
+                "correctAnswer": "nin"
+            }
+        ],
+        [
+            {
+                "id": 1,
+                "question": "Co, według Biblii, było białe jak ziarno kolendry i miało smak placka z miodem?",
+                "answers": [
+                    "ambrozja",
+                    "manna",
+                    "nektar",
+                    "rosa niebieska"
+                ],
+                "correctAnswer": "manna"
+            },
+            {
+                "id": 2,
+                "question": "Ilu posłów liczy polski sejm?",
+                "answers": [
+                    "460",
+                    "360",
+                    "500",
+                    "100"
+                ],
+                "correctAnswer": "460"
+            },
+            {
+                "id": 3,
+                "question": "Garncarz wytwarza naczynia:",
+                "answers": [
+                    "z metalu",
+                    "z drewna",
+                    "ze szkła",
+                    "z gliny"
+                ],
+                "correctAnswer": "z gliny"
+            },
+            {
+                "id": 4,
+                "question": "Jak nazywał się przywódca największego w starożytności powstania niewolników?",
+                "answers": [
+                    "Milon z Krotonu",
+                    "Krassus",
+                    "Spartakus",
+                    "Pompejusz Wielki"
+                ],
+                "correctAnswer": "Spartakus"
+            },
+            {
+                "id": 5,
+                "question": "Powszechny \"dachowiec\" to kot:",
+                "answers": [
+                    "balinese",
+                    "orientalny",
+                    "snowshoe",
+                    "europejski krótkowłosy"
+                ],
+                "correctAnswer": "europejski krótkowłosy"
+            },
+            {
+                "id": 6,
+                "question": "W jakim mieście urodził się Juliusz Machulski?",
+                "answers": [
+                    "w Łodzi",
+                    "w Olsztynie",
+                    "w Krakowie",
+                    "w Warszawie"
+                ],
+                "correctAnswer": "w Olsztynie"
+            },
+            {
+                "id": 7,
+                "question": "Traktat o (utworzeniu) Unii Europejskiej to inaczej:",
+                "answers": [
+                    "Traktat Lizboński",
+                    "Traktat Jałtański",
+                    "Traktat Monachijski",
+                    "Traktat z Maastricht"
+                ],
+                "correctAnswer": "Traktat z Maastricht"
+            },
+            {
+                "id": 8,
+                "question": "Gdzie utworzono kalendarz \"od założenia miasta\"",
+                "answers": [
+                    "w Sparcie",
+                    "w Rzymie",
+                    "w Atenach",
+                    "w Tebach"
+                ],
+                "correctAnswer": "w Rzymie"
+            },
+            {
+                "id": 9,
+                "question": "Zasadniczym składnikiem włókien tkanki łącznej kości jest:",
+                "answers": [
+                    "fosforan wapnia",
+                    "kolagen",
+                    "dwuhydroksyapatyt",
+                    "węglan wapnai"
+                ],
+                "correctAnswer": "kolagen"
+            },
+            {
+                "id": 10,
+                "question": "Wynalazcą silnika Wankla jest:",
+                "answers": [
+                    "Alexander Wankel",
+                    "Felix Wankel",
+                    "Franklin Wankel",
+                    "Johan Wankel"
+                ],
+                "correctAnswer": "Felix Wankel"
+            },
+            {
+                "id": 11,
+                "question": "Pierre Jean Baptiste Charles van der Aa z pochodzenia był:",
+                "answers": [
+                    "Włochem",
+                    "Francuzem",
+                    "Holendrem",
+                    "Niemcem"
+                ],
+                "correctAnswer": "Holendrem"
+            },
+            {
+                "id": 12,
+                "question": "Vasco Nunez de Balboa jako pierwszy europejczyk przedostał się przez Nowy Świat i zobaczył Ocean Spokojny w roku:",
+                "answers": [
+                    "1543",
+                    "1591",
+                    "1612",
+                    "1513"
+                ],
+                "correctAnswer": "1513"
+            }
+        ],
+        [
+            {
+                "id": 1,
+                "question": "Potocznie \"rach-ciach\" to zrobić coś:",
+                "answers": [
+                    "spontanicznie",
+                    "błyskawicznie",
+                    "skutecznie",
+                    "bez namysłu"
+                ],
+                "correctAnswer": "błyskawicznie"
+            },
+            {
+                "id": 2,
+                "question": "Najbardziej znane twierdzenie Pitagorasa dotyczy:",
+                "answers": [
+                    "kwadratu",
+                    "rombu",
+                    "trójkąta",
+                    "koła"
+                ],
+                "correctAnswer": "trójkąta"
+            },
+            {
+                "id": 3,
+                "question": "13% liczby 560 to:",
+                "answers": [
+                    "10",
+                    "5,6",
+                    "72,8",
+                    "100"
+                ],
+                "correctAnswer": "72,8"
+            },
+            {
+                "id": 4,
+                "question": "Spirytus drzewny to zwyczajowa nazwa:",
+                "answers": [
+                    "pentanolu",
+                    "propanolu",
+                    "benzenu",
+                    "metanolu"
+                ],
+                "correctAnswer": "metanolu"
+            },
+            {
+                "id": 5,
+                "question": "W bitwie pod Grunwaldem siłami polskimi, litewsko-ruskimi i oddziałami czeskimi dowodził:",
+                "answers": [
+                    "Kazimierz Wielki",
+                    "Władysław Łokietek",
+                    "Ulrich von Jungingen",
+                    "Władysław Jagiełło"
+                ],
+                "correctAnswer": "Władysław Jagiełło"
+            },
+            {
+                "id": 6,
+                "question": "Rów mariański to najgłębsze miejsce na Ziemi. W którym morzu, bądź oceanie się znajduje?",
+                "answers": [
+                    "Oceanie Spokojnym",
+                    "Oceanie Indyjskim",
+                    "Morzu Koralowym",
+                    "Morzu Północnym"
+                ],
+                "correctAnswer": "Oceanie Spokojnym"
+            },
+            {
+                "id": 7,
+                "question": "Annasz był dla Kafjasza:",
+                "answers": [
+                    "teściem",
+                    "bratem",
+                    "synem",
+                    "szwagrem"
+                ],
+                "correctAnswer": "teściem"
+            },
+            {
+                "id": 8,
+                "question": "Która z bitew morskich została rozegrana przed I Wojną Światową?",
+                "answers": [
+                    "pod Cuszimą",
+                    "jutlandzka",
+                    "pod Coronel",
+                    "o Midway"
+                ],
+                "correctAnswer": "pod Cuszimą"
+            },
+            {
+                "id": 9,
+                "question": "Który z wymienionych filmów wygrał statuetkę za najlepszy obraz jako pierwszy?",
+                "answers": [
+                    "Ojciec chrzestny",
+                    "Francuski łącznik",
+                    "Żądło",
+                    "Rocky"
+                ],
+                "correctAnswer": "Francuski łącznik"
+            },
+            {
+                "id": 10,
+                "question": "Co oznacza po łacinie \"impromptu\"?",
+                "answers": [
+                    "na korzyść",
+                    "na zawsze",
+                    "na poczekaniu",
+                    "w praktyce"
+                ],
+                "correctAnswer": "na poczekaniu"
+            },
+            {
+                "id": 11,
+                "question": "Ostatni przywódca komunistycznej Bułgarii to:",
+                "answers": [
+                    "Wyłko Czerwenkow",
+                    "Georgi Dymitrow",
+                    "Petyr Stojanow",
+                    "Todor Żiwkow"
+                ],
+                "correctAnswer": "Todor Żiwkow"
+            },
+            {
+                "id": 12,
+                "question": "Który z polskich pisarzy ożenił się z córką znanego włoskiego filozofa Benedetto Croce?",
+                "answers": [
+                    "Aleksander Wat",
+                    "Henryk Grynberg",
+                    "G. Herling-Grudziński",
+                    "Czesław Miłosz"
+                ],
+                "correctAnswer": "G. Herling-Grudziński"
+            }
+        ],
+        [
+            {
+                "id": 1,
+                "question": "Jaki stwór terroryzował miasto króla Kraka?",
+                "answers": [
+                    "wąż",
+                    "smok",
+                    "cyklop",
+                    "golem"
+                ],
+                "correctAnswer": "smok"
+            },
+            {
+                "id": 2,
+                "question": "Która z wymienionych marek samochodowych nie zawiera żadnego zwierzęcia w swoim logo?",
+                "answers": [
+                    "Porsche",
+                    "Ferrari",
+                    "Lamborghini",
+                    "Maserati"
+                ],
+                "correctAnswer": "Maserati"
+            },
+            {
+                "id": 3,
+                "question": "Jakie imię nosił bohater znany z filmu i powieści \"Ostatni Mohikanin\"?",
+                "answers": [
+                    "Duncas",
+                    "Uncas",
+                    "Fruncas",
+                    "Incas"
+                ],
+                "correctAnswer": "Uncas"
+            },
+            {
+                "id": 4,
+                "question": "Wg PZPR, młodzież z bogatych rodzin nie znająca prawdziwych problemów środowiska akademickiego to:",
+                "answers": [
+                    "agrestowa młodzież",
+                    "bananowa młodzież",
+                    "ogórkowa młodzież",
+                    "selerowa młodzież"
+                ],
+                "correctAnswer": "bananowa młodzież"
+            },
+            {
+                "id": 5,
+                "question": "Ktoremu politykowi przypisuje się spopularyzowanie powiedzenia \"rżnąć głupa\"?",
+                "answers": [
+                    "Lechowi Wałęsie",
+                    "Januszowi Korwin-Mikkemu",
+                    "Leszkowi Bublowi",
+                    "Stefanowi Niesiołowskiemu"
+                ],
+                "correctAnswer": "Januszowi Korwin-Mikkemu"
+            },
+            {
+                "id": 6,
+                "question": "W którym roku Międzynarodowa Unia Astronomiczna podjęła decyzję o degradacji Plutona do statusu planety karłowatej?",
+                "answers": [
+                    "2004",
+                    "2005",
+                    "2006",
+                    "2003"
+                ],
+                "correctAnswer": "2006"
+            },
+            {
+                "id": 7,
+                "question": "Który finalista nagrody literackiej Nike nie otrzymał tej statuetki trzykrotnie?",
+                "answers": [
+                    "Ryszard Przybylski",
+                    "Olga Tokarczuk",
+                    "Adam Wiedemann",
+                    "Wisława Szymborska"
+                ],
+                "correctAnswer": "Wisława Szymborska"
+            },
+            {
+                "id": 8,
+                "question": "Jak nazywał się owiany sławą \"lis pustyni\" - niemiecki feldmarszałek walczący w Afryce podczas II Wojny Światowej?",
+                "answers": [
+                    "Heinrich Himmler",
+                    "Hermann Goering",
+                    "Rudolf Hess",
+                    "Erwin Rommel"
+                ],
+                "correctAnswer": "Erwin Rommel"
+            },
+            {
+                "id": 9,
+                "question": "Którego warunku nie spełniają bryły platońskie?",
+                "answers": [
+                    "ściany są przyrastającymi wielokątami foremnymi",
+                    "każdy wierzchołek łączy jednakową ilość ścian",
+                    "bryła jest wypukła",
+                    "wszystkie kąty miedzy krawędziami są od siebie różne"
+                ],
+                "correctAnswer": "wszystkie kąty miedzy krawędziami są od siebie różne"
+            },
+            {
+                "id": 10,
+                "question": "Na której płycie zespołu Bon Jovi zadebiutował hit \"It's my life\"?",
+                "answers": [
+                    "These Days",
+                    "Crush",
+                    "Bounce",
+                    "Have a nice day"
+                ],
+                "correctAnswer": "Crush"
+            },
+            {
+                "id": 11,
+                "question": "Pakt Sikorski-Majski przywrający stosunki dyplomatyczne między ZSRR a Rzeczpospolitą został podpisany:",
+                "answers": [
+                    "18 września 1942 roku",
+                    "25 kwietnia 1943 roku",
+                    "30 lipca 1941 roku",
+                    "9 maja 1940 roku"
+                ],
+                "correctAnswer": "30 lipca 1941 roku"
+            },
+            {
+                "id": 12,
+                "question": "Jakiego koloru jedwabny szal zwany \"kabney\", noszą członkowie rządu państwa Bhutan?",
+                "answers": [
+                    "czerwony",
+                    "niebieski",
+                    "biały",
+                    "pomarańczowy"
+                ],
+                "correctAnswer": "pomarańczowy"
+            }
+        ],
+        [
+            {
+                "id": 1,
+                "question": "Czym w hokeju odbijamy krążek?",
+                "answers": [
+                    "młotkiem",
+                    "rakietą",
+                    "nogą",
+                    "kijem"
+                ],
+                "correctAnswer": "kijem"
+            },
+            {
+                "id": 2,
+                "question": "Liczba Pi to w przybliżeniu całkowitym:",
+                "answers": [
+                    "2",
+                    "4",
+                    "5",
+                    "3"
+                ],
+                "correctAnswer": "3"
+            },
+            {
+                "id": 3,
+                "question": "Który z wymienionych ptaków nie jest gatunkiem sowy?",
+                "answers": [
+                    "puchacz",
+                    "puszczyk",
+                    "świstun",
+                    "pójdźka"
+                ],
+                "correctAnswer": "świstun"
+            },
+            {
+                "id": 4,
+                "question": "\"Kalinka\" to jeden z najbardziej znanych utworów:",
+                "answers": [
+                    "słowackich",
+                    "białoruskich",
+                    "litewskich",
+                    "rosyjskich"
+                ],
+                "correctAnswer": "rosyjskich"
+            },
+            {
+                "id": 5,
+                "question": "Który kwas jest kwasem beztlenowym?",
+                "answers": [
+                    "kwas węglowy",
+                    "kwas solny",
+                    "kwas siarkowy",
+                    "kwas azotowy"
+                ],
+                "correctAnswer": "kwas solny"
+            },
+            {
+                "id": 6,
+                "question": "Kto nie był jednym ze sławnych, trzech braci Kennedych?",
+                "answers": [
+                    "Edward",
+                    "John",
+                    "Robert",
+                    "James"
+                ],
+                "correctAnswer": "James"
+            },
+            {
+                "id": 7,
+                "question": "Który stan USA oprócz Nowego Meksyku, Teksasu i Kalifornii graniczy z Meksykiem?",
+                "answers": [
+                    "Kentucky",
+                    "Floryda",
+                    "Arizona",
+                    "Nowy Jork"
+                ],
+                "correctAnswer": "Arizona"
+            },
+            {
+                "id": 8,
+                "question": "Taxus Baccata to łacińska nazwa, którego drzewa?",
+                "answers": [
+                    "Orzechu",
+                    "Cisu Pospolitego",
+                    "Jodły",
+                    "Dębu"
+                ],
+                "correctAnswer": "Cisu Pospolitego"
+            },
+            {
+                "id": 9,
+                "question": "Który z wymienionych filmów jako pierwszy wygrał Oskara?",
+                "answers": [
+                    "Pluton",
+                    "Pożegnanie z Afryką",
+                    "Tańczący z wilkami",
+                    "Titanic"
+                ],
+                "correctAnswer": "Pożegnanie z Afryką"
+            },
+            {
+                "id": 10,
+                "question": "Eszelon to:",
+                "answers": [
+                    "obiekt chroniony",
+                    "stanowisko dowodzenia",
+                    "pociąg wojskowy",
+                    "pława bezpiecznej wody"
+                ],
+                "correctAnswer": "pociąg wojskowy"
+            },
+            {
+                "id": 11,
+                "question": "Gdzie znajduje się Grójec, Puławy, Puńsk i Rypin",
+                "answers": [
+                    "wokół Władywostoku",
+                    "na Marsie",
+                    "w Australii",
+                    "na Dolnym Śląsku"
+                ],
+                "correctAnswer": "na Marsie"
+            },
+            {
+                "id": 12,
+                "question": "Z czego zrobiona jest \"marmolada\", jeśli wziąć pod uwagę pochodzenie słowa?",
+                "answers": [
+                    "z pigwy",
+                    "z figi",
+                    "z wiśni",
+                    "z gruszki"
+                ],
+                "correctAnswer": "z pigwy"
+            }
+        ],
+        [
+            {
+                "id": 1,
+                "question": "Kim według mitów greckich byli cyklopi?",
+                "answers": [
+                    "jednookimi olbrzymami",
+                    "żeglarzami",
+                    "władcami mórz",
+                    "bogami"
+                ],
+                "correctAnswer": "jednookimi olbrzymami"
+            },
+            {
+                "id": 2,
+                "question": "Jak nazywa się największe skocznie narciarskie?",
+                "answers": [
+                    "mamucie",
+                    "żyrafie",
+                    "słoniowe",
+                    "żurawiowe"
+                ],
+                "correctAnswer": "mamucie"
+            },
+            {
+                "id": 3,
+                "question": "\"Quo vadis\" z łaciny oznacza:",
+                "answers": [
+                    "Jestem chrześcijaninem",
+                    "Chwała Panu",
+                    "Idź przed siebie",
+                    "Dokąd zmierzasz"
+                ],
+                "correctAnswer": "Dokąd zmierzasz"
+            },
+            {
+                "id": 4,
+                "question": "Rakiety dalekiego zasięgu V2 to wynalazek:",
+                "answers": [
+                    "niemiecki",
+                    "amerykański",
+                    "brytyjski",
+                    "rosyjski"
+                ],
+                "correctAnswer": "niemiecki"
+            },
+            {
+                "id": 5,
+                "question": "W którym roku nastąpił I rozbiór Polski?",
+                "answers": [
+                    "1769",
+                    "1778",
+                    "1772",
+                    "1784"
+                ],
+                "correctAnswer": "1772"
+            },
+            {
+                "id": 6,
+                "question": "Co zbiera gracz w znanej serii gier \"Sonic the Hedgehog\"?",
+                "answers": [
+                    "monety",
+                    "szmaragdy",
+                    "pierścienie",
+                    "jabłka"
+                ],
+                "correctAnswer": "pierścienie"
+            },
+            {
+                "id": 7,
+                "question": "Chłopiec wychowany przez wwilki znany z książki Rudyarda Kiplinga \"Księga dżungli\" to:",
+                "answers": [
+                    "Tarzan",
+                    "Piętaszek",
+                    "Willy",
+                    "Mowgli"
+                ],
+                "correctAnswer": "Mowgli"
+            },
+            {
+                "id": 8,
+                "question": "Co jest charakterystycznym elementem obrazu \"Trwałość pamięci\" Salvadora Dali?",
+                "answers": [
+                    "ludzie",
+                    "żbiki",
+                    "zegary",
+                    "łodzie"
+                ],
+                "correctAnswer": "zegary"
+            },
+            {
+                "id": 9,
+                "question": "W którym czeskim mieście wybudowano \"Tańczący dom\" - awangardowy architektonicznie budynek?",
+                "answers": [
+                    "w Pradze",
+                    "w Ostrawie",
+                    "w Libercu",
+                    "w Brnie"
+                ],
+                "correctAnswer": "w Pradze"
+            },
+            {
+                "id": 10,
+                "question": "Który znak zodiaku nie jest tzw. wiosennym?",
+                "answers": [
+                    "Byk",
+                    "Bliźnięta",
+                    "Ryby",
+                    "Baran"
+                ],
+                "correctAnswer": "Ryby"
+            },
+            {
+                "id": 11,
+                "question": "Drzewce poziome, służące do przymocowania dolnego liku żagla skośnego to:",
+                "answers": [
+                    "gafel",
+                    "bukszpryt",
+                    "bom",
+                    "saling"
+                ],
+                "correctAnswer": "bom"
+            },
+            {
+                "id": 12,
+                "question": "Czym kolarze smarują koła roweru, aby uniknąć upadków na śliskiej nawierzchni?",
+                "answers": [
+                    "pomarańczą",
+                    "cytryną",
+                    "ananasem",
+                    "gruszką"
+                ],
+                "correctAnswer": "cytryną"
+            }
+        ],
+        [
+            {
+                "id": 1,
+                "question": "Hurghada to miasto turystyczne leżące w:",
+                "answers": [
+                    "Tunezji",
+                    "Egipcie",
+                    "Turcji",
+                    "Francji"
+                ],
+                "correctAnswer": "Egipcie"
+            },
+            {
+                "id": 2,
+                "question": "Jak potocznie nazywa się znak, który zawiera się w każdym adresie e-mail",
+                "answers": [
+                    "żółw",
+                    "koń",
+                    "małpa",
+                    "słoń"
+                ],
+                "correctAnswer": "małpa"
+            },
+            {
+                "id": 3,
+                "question": "Wianek panny młodej ozdobiony był dawniej:",
+                "answers": [
+                    "anyżkiem",
+                    "miętą",
+                    "rutą",
+                    "macierzanką"
+                ],
+                "correctAnswer": "rutą"
+            },
+            {
+                "id": 4,
+                "question": "Którym z kolei jest przykazanie \"Nie cudzołóż\"?",
+                "answers": [
+                    "piątym",
+                    "szóstym",
+                    "siódmym",
+                    "ósmym"
+                ],
+                "correctAnswer": "szóstym"
+            },
+            {
+                "id": 5,
+                "question": "Która marka nie należy do francuskiego koncernu samochodowego PSA",
+                "answers": [
+                    "Renault",
+                    "Opel",
+                    "Peugot",
+                    "Citroen"
+                ],
+                "correctAnswer": "Renault"
+            },
+            {
+                "id": 6,
+                "question": "Symonia to kupczenie godnościami:",
+                "answers": [
+                    "kościelnymi",
+                    "państwowymi",
+                    "wojskowymi",
+                    "szlacheckimi"
+                ],
+                "correctAnswer": "kościelnymi"
+            },
+            {
+                "id": 7,
+                "question": "Jakie miasto jest stolicą Libanu?",
+                "answers": [
+                    "Kabul",
+                    "Damaszek",
+                    "Amman",
+                    "Bejrut"
+                ],
+                "correctAnswer": "Bejrut"
+            },
+            {
+                "id": 8,
+                "question": "Wykresem funkcji trójmianu kwadratowego jest:",
+                "answers": [
+                    "Hiperbola",
+                    "Prosta",
+                    "Punkt",
+                    "Parabola"
+                ],
+                "correctAnswer": "Parabola"
+            },
+            {
+                "id": 9,
+                "question": "Na ilu złotowym banknocie z lat 1975-1996 na rewersie znajdziemy napis: \"Proletaryat",
+                "answers": [
+                    "200 złotowym",
+                    "500 złotowym",
+                    "100 złotowym",
+                    "1 000 złotowym"
+                ],
+                "correctAnswer": "100 złotowym"
+            },
+            {
+                "id": 10,
+                "question": "Podział administracyjny Polski obowiązujący w latach 1975-1998 liczył:",
+                "answers": [
+                    "49 województw",
+                    "43 województw",
+                    "46 województw",
+                    "41 województw"
+                ],
+                "correctAnswer": "49 województw"
+            },
+            {
+                "id": 11,
+                "question": "Robert Zimmerman to prawdziwe imię:",
+                "answers": [
+                    "Bono",
+                    "Cliffa Richarda",
+                    "Boba Dylana",
+                    "Michaela Caine'a"
+                ],
+                "correctAnswer": "Boba Dylana"
+            },
+            {
+                "id": 12,
+                "question": "Pierścien Kaysera-Fleischera, będący miejscem odkładania się miedzi w rogówce oka jest charakterystycznym objawem:",
+                "answers": [
+                    "choroby Wilsona",
+                    "zapalenia wątroby typu E",
+                    "zespołu Friderichsena",
+                    "choroby Fabry'ego"
+                ],
+                "correctAnswer": "choroby Wilsona"
+            }
+        ],
+        [
+            {
+                "id": 1,
+                "question": "Co, zgodnie z przesądem, musi założyć panna młoda, aby małżeństwo było udane?",
+                "answers": [
+                    "coś pożyczonego",
+                    "coś czarnego",
+                    "coś niemodnego",
+                    "coś podartego"
+                ],
+                "correctAnswer": "coś pożyczonego"
+            },
+            {
+                "id": 2,
+                "question": "Która postać showbiznesu jest posądzona o poddanie się zabiegowi zmiany koloru skóry?",
+                "answers": [
+                    "Arnold Schwarzenegger",
+                    "Michael Jackson",
+                    "Quentin Tarantino",
+                    "John Travolta"
+                ],
+                "correctAnswer": "Michael Jackson"
+            },
+            {
+                "id": 3,
+                "question": "Co widnieje w herbie miasta Piła?",
+                "answers": [
+                    "piła",
+                    "jeleń",
+                    "drzewo",
+                    "anioł"
+                ],
+                "correctAnswer": "jeleń"
+            },
+            {
+                "id": 4,
+                "question": "Co nie zaliczymy do dewizy Wojska Polskiego?",
+                "answers": [
+                    "Honor",
+                    "Wolność",
+                    "Ojczyzna",
+                    "Bóg"
+                ],
+                "correctAnswer": "Wolność"
+            },
+            {
+                "id": 5,
+                "question": "Muniek Staszczyk śpiewa w utworze \"Gwiazdka\", że za pierwszą wypłatę kupi sobie:",
+                "answers": [
+                    "czekoladę",
+                    "armatę",
+                    "gitarę",
+                    "pralkę"
+                ],
+                "correctAnswer": "armatę"
+            },
+            {
+                "id": 6,
+                "question": "Enzymów trawiennych nie zawiera:",
+                "answers": [
+                    "ślina",
+                    "osocze limfy",
+                    "sok trzustkowy",
+                    "sok jelitowy"
+                ],
+                "correctAnswer": "osocze limfy"
+            },
+            {
+                "id": 7,
+                "question": "Linia Sengera jest znana również pod nazwą:",
+                "answers": [
+                    "Linia Gustawa",
+                    "Linia Stalina",
+                    "Linia Hitlera",
+                    "Linia Zygfryda"
+                ],
+                "correctAnswer": "Linia Hitlera"
+            },
+            {
+                "id": 8,
+                "question": "Do dynastii Andegawenów należał:",
+                "answers": [
+                    "Leszek Czarny",
+                    "Henryk Walezy",
+                    "Henryk VI Probus",
+                    "Ludwik Węgierski"
+                ],
+                "correctAnswer": "Ludwik Węgierski"
+            },
+            {
+                "id": 9,
+                "question": "Który z wymienionych filmów wygrał statuetkę za najlepszy obraz jako pierwszy?",
+                "answers": [
+                    "A Man For All Seasons",
+                    "W upalną noc",
+                    "Patton",
+                    "Dźwięki Muzyki"
+                ],
+                "correctAnswer": "Dźwięki Muzyki"
+            },
+            {
+                "id": 10,
+                "question": "Który z wymienionych terytoriów nie należy do brytyjskich terytoriów zamorskich?",
+                "answers": [
+                    "Falklandy",
+                    "Kajmany",
+                    "Nowa Zelandia",
+                    "Bermudy"
+                ],
+                "correctAnswer": "Nowa Zelandia"
+            },
+            {
+                "id": 11,
+                "question": "Flaga którego państwa zawiera dwunastoramienną gwiazdę?",
+                "answers": [
+                    "Vanuatu",
+                    "Mauritiusa",
+                    "Nauru",
+                    "Gabonu"
+                ],
+                "correctAnswer": "Nauru"
+            },
+            {
+                "id": 12,
+                "question": "Ryś polski, łabędź rostowski, saksoński bocian i wywrotek smoleński to:",
+                "answers": [
+                    "rasy gołębi",
+                    "rasy kur",
+                    "chrząszcze",
+                    "akrobacje na deskorolce"
+                ],
+                "correctAnswer": "rasy gołębi"
+            }
+        ],
+        [
+            {
+                "id": 1,
+                "question": "Aerodynamika to nauka o:",
+                "answers": [
+                    "zwierzętach",
+                    "ptakach",
+                    "grawitacji",
+                    "ruchu gazów"
+                ],
+                "correctAnswer": "ruchu gazów"
+            },
+            {
+                "id": 2,
+                "question": "Japonia potocznie nazywana jest krajem:",
+                "answers": [
+                    "kwitnącej technologii",
+                    "kwitnącej wiśni",
+                    "spadających jabłek",
+                    "mikroprocesorów"
+                ],
+                "correctAnswer": "kwitnącej wiśni"
+            },
+            {
+                "id": 3,
+                "question": "Banknot o najniższym nominale, jaki możemy spotkać w niektórych krajach Unii Europejskiej to:",
+                "answers": [
+                    "2 euro",
+                    "1 euro",
+                    "5 euro",
+                    "10 euro"
+                ],
+                "correctAnswer": "5 euro"
+            },
+            {
+                "id": 4,
+                "question": "Jednostka astronomiczna jest równa:",
+                "answers": [
+                    "około 250 mln km",
+                    "około 500 mln km",
+                    "około 1 mld km",
+                    "około 150 mln km"
+                ],
+                "correctAnswer": "około 150 mln km"
+            },
+            {
+                "id": 5,
+                "question": "Które z państw nie należy do krajów Beneluksu?",
+                "answers": [
+                    "Holandia",
+                    "Niemcy",
+                    "Belgia",
+                    "Luksemburg"
+                ],
+                "correctAnswer": "Niemcy"
+            },
+            {
+                "id": 6,
+                "question": "Pierwszym przywódcą Polskiej Republiki Ludowej był:",
+                "answers": [
+                    "Stanisław Mikołajczyk",
+                    "Bolesław Bierut",
+                    "Aleksander Zawadzki",
+                    "Józef Cyrankiewicz"
+                ],
+                "correctAnswer": "Bolesław Bierut"
+            },
+            {
+                "id": 7,
+                "question": "\"Pokora i uległość tylko do wzmocenia i utrwalenia niewoli prowadzi\" to słowa, których autorem jest:",
+                "answers": [
+                    "Jan III Sobieski",
+                    "Jan Paweł II",
+                    "Józef Piłsudski",
+                    "Adam Mickiewicz"
+                ],
+                "correctAnswer": "Józef Piłsudski"
+            },
+            {
+                "id": 8,
+                "question": "Najdłużej żyjącymi komórkami ludzkiej krwi są:",
+                "answers": [
+                    "limfocyty",
+                    "erytrocyty",
+                    "monocyty",
+                    "leukocyty"
+                ],
+                "correctAnswer": "limfocyty"
+            },
+            {
+                "id": 9,
+                "question": "Okrąg jakiego koloru nie wystepuje w górnym rzędzie na fladze olimpijskiej?",
+                "answers": [
+                    "zielonego",
+                    "czarnego",
+                    "niebieskiego",
+                    "czerwonego"
+                ],
+                "correctAnswer": "zielonego"
+            },
+            {
+                "id": 10,
+                "question": "Sanguinarianizm jest to psychosomatyczne uzależnienie od:",
+                "answers": [
+                    "bycia na diecie",
+                    "nawyku zjadania włosów",
+                    "picia ludzkiej krwii",
+                    "zażywania morfiny"
+                ],
+                "correctAnswer": "picia ludzkiej krwii"
+            },
+            {
+                "id": 11,
+                "question": "Jakim słynnym zdaniem kończyły się wykłady z mniemanologii stosowanej J.T. Stanisławskiego?",
+                "answers": [
+                    "i to by było na tyle",
+                    "to już wszystko",
+                    "dziękuję za uwagę",
+                    "do usłyszenia"
+                ],
+                "correctAnswer": "i to by było na tyle"
+            },
+            {
+                "id": 12,
+                "question": "Żona Kim Ir Sena, pierwszego komunistycznego przywódcy Korei Północnej, nazywała się:",
+                "answers": [
+                    "Kim Dzong Suk",
+                    "Kim Kunt Duka",
+                    "Kim Dżat Ota",
+                    "Kim Wrat Rot"
+                ],
+                "correctAnswer": "Kim Dzong Suk"
+            }
+        ],
+        [
+            {
+                "id": 1,
+                "question": "Gdzie kota nie ma, tam harcują:",
+                "answers": [
+                    "stonki",
+                    "chomiki",
+                    "karaluchy",
+                    "myszy"
+                ],
+                "correctAnswer": "myszy"
+            },
+            {
+                "id": 2,
+                "question": "Głównym pierwiastkiem używanym do produkcji procesorów jest:",
+                "answers": [
+                    "Srebro",
+                    "Krzem",
+                    "Wodór",
+                    "Rad"
+                ],
+                "correctAnswer": "Krzem"
+            },
+            {
+                "id": 3,
+                "question": "Cargo utożsamiamy z przewozem:",
+                "answers": [
+                    "żywnosci",
+                    "ludzi",
+                    "towarów",
+                    "zwierząt"
+                ],
+                "correctAnswer": "towarów"
+            },
+            {
+                "id": 4,
+                "question": "Kwintal równy jest:",
+                "answers": [
+                    "0,01 tony",
+                    "10 ton",
+                    "100 ton",
+                    "0,1 tony"
+                ],
+                "correctAnswer": "0,1 tony"
+            },
+            {
+                "id": 5,
+                "question": "W jakim szyku ustwiają się samochody ustępujące przejazd pojazdowi uprzywilejowanemu?",
+                "answers": [
+                    "w sosenkę",
+                    "w brzózkę",
+                    "w dąbek",
+                    "w jodełkę"
+                ],
+                "correctAnswer": "w jodełkę"
+            },
+            {
+                "id": 6,
+                "question": "Z ilu stanów składają się Stany Zjednoczone Ameryki?",
+                "answers": [
+                    "51",
+                    "50",
+                    "49",
+                    "48"
+                ],
+                "correctAnswer": "50"
+            },
+            {
+                "id": 7,
+                "question": "Który film Stevena Spielberga uczynił gwiazdę z Whoopi Goldberg?",
+                "answers": [
+                    "E.T",
+                    "Indiana Jones",
+                    "Kolor purpury",
+                    "Surgarland Express"
+                ],
+                "correctAnswer": "Kolor purpury"
+            },
+            {
+                "id": 8,
+                "question": "Który z wymienionych polityków jest z wykształcenia historykiem?",
+                "answers": [
+                    "Janusz Korwin-Mikke",
+                    "Jarosław Kaczyński",
+                    "Donald Tusk",
+                    "Ewa Kopacz"
+                ],
+                "correctAnswer": "Donald Tusk"
+            },
+            {
+                "id": 9,
+                "question": "Który święty zginął na krzyżwu w kształcie litery X?",
+                "answers": [
+                    "Andrzej",
+                    "Cyryl",
+                    "Bonawentura",
+                    "Damian"
+                ],
+                "correctAnswer": "Andrzej"
+            },
+            {
+                "id": 10,
+                "question": "Pierwszym europejczykiem, który zobaczył Brazylię był:",
+                "answers": [
+                    "Vasco da Gama",
+                    "Krzysztof Kolumb",
+                    "Pedro Cabral",
+                    "Ferdynand Magellan"
+                ],
+                "correctAnswer": "Pedro Cabral"
+            },
+            {
+                "id": 11,
+                "question": "W 2003 roku przekładnię DSG (Direct Shift Gearbox) wprowadził koncern Volkswagen do modelu:",
+                "answers": [
+                    "Eos",
+                    "Phaeton",
+                    "Touran",
+                    "Golf"
+                ],
+                "correctAnswer": "Golf"
+            },
+            {
+                "id": 12,
+                "question": "Gdzie w 1931 roku urodził się Ksawery Jasieński - polski spiker zwany \"człowiekiem o aksamitnym głosie\"?",
+                "answers": [
+                    "w Warszawie",
+                    "w Płocku",
+                    "w Radomiu",
+                    "w Sochaczewie"
+                ],
+                "correctAnswer": "w Radomiu"
+            }
+        ],
+        [
+            {
+                "id": 1,
+                "question": "Zwierze z \"torbą\" to:",
+                "answers": [
+                    "struś",
+                    "krokodyl",
+                    "lew",
+                    "kangur"
+                ],
+                "correctAnswer": "kangur"
+            },
+            {
+                "id": 2,
+                "question": "Aktualna nazwa najwyższego szczebla ligi piłkarskiej to:",
+                "answers": [
+                    "Ekstraklasa",
+                    "I liga",
+                    "Superliga",
+                    "Czempion liga"
+                ],
+                "correctAnswer": "Ekstraklasa"
+            },
+            {
+                "id": 3,
+                "question": "Jakie pasmo górskie tworzy naturalną granicę między Europą, a Azją?",
+                "answers": [
+                    "Ural",
+                    "Andy",
+                    "Karpaty",
+                    "Himalaje"
+                ],
+                "correctAnswer": "Ural"
+            },
+            {
+                "id": 4,
+                "question": "Ogary są psami:",
+                "answers": [
+                    "pasterskimi",
+                    "pociągowymi",
+                    "obronnymi",
+                    "gończymi"
+                ],
+                "correctAnswer": "gończymi"
+            },
+            {
+                "id": 5,
+                "question": "Mokasyn to:",
+                "answers": [
+                    "motyl",
+                    "ptak",
+                    "wąż",
+                    "żółw"
+                ],
+                "correctAnswer": "wąż"
+            },
+            {
+                "id": 6,
+                "question": "\"Iron man\" to przebój grupy:",
+                "answers": [
+                    "Led Zeppelin",
+                    "AC/DC",
+                    "Deep Purple",
+                    "Black Sabbath"
+                ],
+                "correctAnswer": "Black Sabbath"
+            },
+            {
+                "id": 7,
+                "question": "Lauzach to miejscowość położona:",
+                "answers": [
+                    "we Francji",
+                    "w Niemczech",
+                    "w Szwajcarii",
+                    "w Austrii"
+                ],
+                "correctAnswer": "we Francji"
+            },
+            {
+                "id": 8,
+                "question": "Kto \"zmodyfikował\" portret Gicondy domalowując jej wąsy?",
+                "answers": [
+                    "Max Ernst",
+                    "Marcel Duchamp",
+                    "George Grosz",
+                    "Otto Dix"
+                ],
+                "correctAnswer": "Marcel Duchamp"
+            },
+            {
+                "id": 9,
+                "question": "Jak ma na imię syn Johna Lennona i Yoko Ono?",
+                "answers": [
+                    "John",
+                    "Ozu",
+                    "Julian",
+                    "Sean"
+                ],
+                "correctAnswer": "Sean"
+            },
+            {
+                "id": 10,
+                "question": "W którym roku po raz pierwszy przyznano Złote Maliny?",
+                "answers": [
+                    "1980",
+                    "1970",
+                    "1990",
+                    "2000"
+                ],
+                "correctAnswer": "1980"
+            },
+            {
+                "id": 11,
+                "question": "Scrat w \"Epoce lodowcowej\" zostaje rozdeptany przez:",
+                "answers": [
+                    "toxodona",
+                    "maukrachenię",
+                    "diprotodona",
+                    "xenorthinotherium"
+                ],
+                "correctAnswer": "maukrachenię"
+            },
+            {
+                "id": 12,
+                "question": "Z gry na jakim instrumencie słynie Czesław Mozil?",
+                "answers": [
+                    "na kornecie",
+                    "na akordeonie",
+                    "na djembe",
+                    "na ksylofonie"
+                ],
+                "correctAnswer": "na akordeonie"
+            }
+        ]
+    ]

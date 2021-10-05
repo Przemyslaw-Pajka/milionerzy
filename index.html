@@ -1,0 +1,74 @@
+<!DOCTYPE HTML>
+<html lang="pl">
+
+<head>
+    <title>Milionerzy</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Free web project 'Milionerzy'">
+    <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+    <link rel="stylesheet" href="css/external/fontello/fontello.css" type="text/css" />
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+    <div id="page" class="page">
+        <header>
+            <h1 class="game-title">MILIONERZY</h1>
+        </header>
+        <div class="start-screen">
+            <div class="nick-wrap">
+                <label for="nick-input" class="nick-label">Imię gracza:</label>
+                <input type="text" class="option-menu-btn nick-input" id="nick-input" placeholder="Wpisz swój nick..."
+                    name="nick-input" />
+            </div>
+            <button id="play-btn" class="play-btn option-menu-btn">ZAGRAJ</button>
+        </div>
+        <!-- .start-screen -->
+        <div class="game-wrapper column-md-12 column-sm-9">
+            <div class="game-wrapper__head">
+                <div class="player-name-wrapper" id="player-name-wrapper"></div>
+                <div class="disp-block">GRAMY O:</div>
+                <div class="target-amount disp-block"><span id="target-amount__money"
+                        class="target-amount__money">500</span> ZŁOTYCH</div>
+                <div class="column-12">
+                    <div class="game-wrapper__helpers-panel">
+                        <button id="fiftyFifty" class="fifty-btn help-btn" data-help-type="fiftyFifty"><i
+                                class="icon-percent"></i></button>
+                        <button id="callFriend" class="phone-friend-btn help-btn" data-help-type="callFriend"><i
+                                class="icon-phone"></i></button>
+                        <button id="questionPublic" class="question-public-btn help-btn"
+                            data-help-type="questionPublic"><i class="icon-group"></i></button>
+                    </div>
+                    <!-- .game-wrapper__helpers-panel -->
+                    <div class="question-number">Oto pytanie nr: <span id="question-number__counter"
+                            class="question-number__counter">1</span></div>
+                </div>
+                <!-- .column-12 -->
+            </div>
+            <!-- .game-wrapper__head -->
+            <div id="game-wrapper__question" class="game-wrapper__question"></div>
+            <div class="game-wrapper__answers">
+                <button class="game-wrapper__answers__item"></button>
+                <button class="game-wrapper__answers__item"></button>
+                <button class="game-wrapper__answers__item"></button>
+                <button class="game-wrapper__answers__item"></button>
+            </div>
+            <!-- .game-wrapper__answers -->
+            <div class="game-wrapper__info" id="game-wrapper__info"></div>
+            <div class="game-wrapper__helpers">
+                <div class="game-wrapper__phone-friend" id="game-wrapper__phone-friend"></div>
+                <div class="game-wrapper__percentage" id="game-wrapper__percentage"></div>
+                <!-- .game-wrapper__phone-friend -->
+            </div>
+            <!-- .game-wrapper__helpers -->
+        </div>
+        <!-- .game-wrapper -->
+    </div>
+    <!-- #page-->
+
+    <script type="text/javascript" src="js/external/jquery/jquery-3.2.1.min.js"></script>
+    <script type="module" src="js/app.js"></script>
+</body>
+
+</html>
