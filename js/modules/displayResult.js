@@ -5,13 +5,9 @@ import resultTypes from './resultTypes.js';
 const displayResult = async (resultType) => {
     const { correctAnswer } = await getGameStateFromDB();
     const gameWrapperInfo = $('.game-wrapper__info');
+    const messageToDisplay = messages[resultType] + correctAnswer
 
-    if(resultType === resultTypes.LOOSE_GAME)
-        messages.looseGame += correctAnswer
-
-    const messageToDisplay = messages[resultType]
     gameWrapperInfo.append(messageToDisplay)
-
 }
 
 export default displayResult;
